@@ -38,4 +38,4 @@ query-authentication = { git = "https://github.com/securesecrets/query-authentic
 
 [target.'cfg(not(target_arch="wasm32"))'.dependencies]
 rand = { version = "0.8.4" }
-chrono = "0.4.19"
+chrono = "0.4.40"
